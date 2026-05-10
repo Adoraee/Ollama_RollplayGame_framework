@@ -1,4 +1,3 @@
-# Ollama_RollplayGame_framework
 # Ollama 角色演绎模板 (Roleplay Framework)
 
 >简单的本地跑团rp模板，Qwen、Llama 3 等大模型已内置相关跑团规则，具体的prompt可以自行搜索添加。
